@@ -15,6 +15,8 @@ This repo contains several common big data exercises.
  
 ## How to run tests
 
+    Download movies.tar.gz and extract the file on src/test/resources folder
+    From terminal, project root, put the command mvn test 
     #from the repository root
     mvn test
  
